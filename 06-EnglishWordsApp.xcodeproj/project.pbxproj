@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		EAC177442F6A6FE10048B579 /* 01-MyfirstAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "01-MyfirstAPP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAC177442F6A6FE10048B579 /* 06-EnglishWordsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "06-EnglishWordsApp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EAC177462F6A6FE10048B579 /* 01-MyfirstAPP */ = {
+		EAC177462F6A6FE10048B579 /* 06-EnglishWordsApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "01-MyfirstAPP";
+			path = "06-EnglishWordsApp";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		EAC1773B2F6A6FE10048B579 = {
 			isa = PBXGroup;
 			children = (
-				EAC177462F6A6FE10048B579 /* 01-MyfirstAPP */,
+				EAC177462F6A6FE10048B579 /* 06-EnglishWordsApp */,
 				EAC177452F6A6FE10048B579 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		EAC177452F6A6FE10048B579 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EAC177442F6A6FE10048B579 /* 01-MyfirstAPP.app */,
+				EAC177442F6A6FE10048B579 /* 06-EnglishWordsApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EAC177432F6A6FE10048B579 /* 01-MyfirstAPP */ = {
+		EAC177432F6A6FE10048B579 /* 06-EnglishWordsApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAC1774F2F6A6FE30048B579 /* Build configuration list for PBXNativeTarget "01-MyfirstAPP" */;
+			buildConfigurationList = EAC1774F2F6A6FE30048B579 /* Build configuration list for PBXNativeTarget "06-EnglishWordsApp" */;
 			buildPhases = (
 				EAC177402F6A6FE10048B579 /* Sources */,
 				EAC177412F6A6FE10048B579 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EAC177462F6A6FE10048B579 /* 01-MyfirstAPP */,
+				EAC177462F6A6FE10048B579 /* 06-EnglishWordsApp */,
 			);
-			name = "01-MyfirstAPP";
+			name = "06-EnglishWordsApp";
 			packageProductDependencies = (
 			);
 			productName = "01-MyfirstAPP";
-			productReference = EAC177442F6A6FE10048B579 /* 01-MyfirstAPP.app */;
+			productReference = EAC177442F6A6FE10048B579 /* 06-EnglishWordsApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EAC1773F2F6A6FE10048B579 /* Build configuration list for PBXProject "01-MyfirstAPP" */;
+			buildConfigurationList = EAC1773F2F6A6FE10048B579 /* Build configuration list for PBXProject "06-EnglishWordsApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EAC177432F6A6FE10048B579 /* 01-MyfirstAPP */,
+				EAC177432F6A6FE10048B579 /* 06-EnglishWordsApp */,
 			);
 		};
 /* End PBXProject section */
@@ -309,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EAC1773F2F6A6FE10048B579 /* Build configuration list for PBXProject "01-MyfirstAPP" */ = {
+		EAC1773F2F6A6FE10048B579 /* Build configuration list for PBXProject "06-EnglishWordsApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAC1774D2F6A6FE30048B579 /* Debug */,
@@ -318,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EAC1774F2F6A6FE30048B579 /* Build configuration list for PBXNativeTarget "01-MyfirstAPP" */ = {
+		EAC1774F2F6A6FE30048B579 /* Build configuration list for PBXNativeTarget "06-EnglishWordsApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAC177502F6A6FE30048B579 /* Debug */,

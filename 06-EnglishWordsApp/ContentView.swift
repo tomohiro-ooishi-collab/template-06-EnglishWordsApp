@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  01-MyfirstAPP
+//  06-EnglishWordsApp
 //
 //  Created by 大石智広 on 2026/03/18.
 //
